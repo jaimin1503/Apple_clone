@@ -514,6 +514,14 @@ body{
 		padding-top: 3em;
 		max-width: 250px;
 	}
+	.right-bottom{
+		width: 400px;
+		height: 200px;
+	}
+	.right-top{
+		width: 400px;
+		height: 200px;
+	}
 }
 @media(max-width:520px){
 	.info_start h1{
