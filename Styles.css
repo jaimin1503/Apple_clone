@@ -384,6 +384,7 @@ body{
 	}
 	.row4-left{
 		margin-bottom: 2em;
+		margin-left: 2em;
 	}
 	.row4-right{
 		margin: 2em 0;
@@ -395,6 +396,7 @@ body{
 		font-size: 40px;
 		max-width: 710px;
 	}
+	
 }
 @media(max-width:905px){
 	.navebar{
